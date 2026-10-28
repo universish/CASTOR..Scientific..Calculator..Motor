@@ -1,0 +1,39 @@
+Universish Labs Libre General Protective License v1.0 (ULLGPL)
+
+Copyright (c) 2026 universish..Labs
+Copyright (c) 2026 Saffet Yavuz (universish)
+
+This license is a conditional franchise agreement granted to developers who wish to create an official “CASTOR” franchise using the CASTOR brand and infrastructure.
+
+Anyone who uses, copies, or modifies this software under this license (“Developer”) irrevocably agrees to the following terms:
+
+1. NAMING: The name of every software program, application, and code repository produced under this license must begin with the word “CASTOR.” The copyright and ownership rights to the “CASTOR” trademark belong to Saffet Yavuz.
+
+2. ATTRIBUTION AND STATEMENT: The Developer must include the original CASTOR logo and the following text in the largest font size (H1) at the very top of the derivative project’s README file: "ATTENTION: THIS PROJECT HAS NO AFFILIATION WITH THE ORIGINAL DEVELOPER OF THE CASTOR ENGINE. The developer of the derivative project is responsible for the design, quality, errors, and deficiencies (shortcomings)."
+
+3. QUALITY CONTROL AND MANDATORY TRANSFER: If the Original Engine Developer (Saffet Yavuz) determines that the derivative project under this license is of poor quality or damages the CASTOR brand value, he will send a written notice to the Developer. The Developer must transfer the project’s code repository and all digital rights to the Original Engine Developer free of charge within 1 month (30 days) from the date of the notice. The Original Developer has the right to destroy or modify the repository upon transfer.
+
+4. TERMINATION: In the event of a breach of any of the above terms, all rights of use under this license shall be immediately terminated, and the Developer must immediately cease using the name “CASTOR.”
+
+5. DISCLAIMER OF WARRANTY: THIS SOFTWARE IS PROVIDED “AS IS.” NO WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE IS MADE.
+
+----------------------------------------------------------------------------
+
+Universish Labs Libre General Protective License v1.0 (ULLGPL)
+
+Telif Hakkı (c) 2026 universish..Labs
+Telif Hakkı (c) 2026 Saffet Yavuz (universish)
+
+Bu lisans; CASTOR markasını ve altyapısını kullanarak resmi bir "CASTOR" türevi (franchise) oluşturmak isteyen geliştiricilere verilmiş şartlı bir imtiyaz sözleşmesidir. 
+
+Bu yazılımı bu lisans altında kullanan, kopyalayan veya değiştiren herkes ("Geliştirici") aşağıdaki maddeleri gayrikabili rücu (geri dönülemez) şekilde kabul eder:
+
+1. İSİMLENDİRME: Bu lisans kullanılarak üretilen her yazılımın, uygulamanın ve kod deposunun adı "CASTOR" kelimesi ile başlamak zorundadır. "CASTOR" markasının telif ve mülkiyet hakları Saffet Yavuz'a aittir.
+
+2. ATIF VE BEYAN: Geliştirici, türev projenin README dosyasının en üstünde orijinal CASTOR logosunu ve aşağıdaki metni en büyük puntoyla (H1) bulundurmak zorundadır: "DİKKAT: BU PROJENİN CASTOR MOTORU'NUN ORİJİNAL GELİŞTİRİCİSİ İLE HİÇBİR BAĞI YOKTUR. Tasarım, kalite, hatalar ve eksikliklerden (kantitesizlik) türev projenin geliştiricisi sorumludur."
+
+3. KALİTE KONTROL VE ZORUNLU DEVİR: Orijinal Motor Geliştiricisi (Saffet Yavuz), bu lisans altındaki türev projenin kalitesiz olduğuna veya CASTOR marka değerine zarar verdiğine kanaat getirirse Geliştirici'ye yazılı ihtar gönderir. Geliştirici, ihtar tarihinden itibaren 1 ay (30 gün) içerisinde projenin kod deposunu (repository) ve tüm dijital haklarını bedelsiz olarak Orijinal Motor Geliştiricisi'ne devretmek zorundadır. Orijinal Geliştirici, devraldığı depoyu imha etme veya değiştirme hakkına sahiptir.
+
+4. FESİH: Yukarıdaki şartlardan herhangi birinin ihlali durumunda, bu lisans kapsamındaki tüm kullanım hakları anında feshedilir ve Geliştirici "CASTOR" ismini kullanımını derhal durdurmak zorundadır.
+
+5. GARANTİ REDDİ: BU YAZILIM "OLDUĞU GİBİ" SAĞLANMIŞTIR. HİÇBİR TİCARİ ELVERİŞLİLİK VEYA BELİRLİ BİR AMACA UYGUNLUK GARANTİSİ VERİLMEZ.
